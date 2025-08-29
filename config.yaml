@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "serarcherryan"
+user_name: "LF-XKX"
 repo_name: "Red-Team-Arxiv-Paper-Update-With-AI-Summary"
 show_authors: True
 show_links: True
